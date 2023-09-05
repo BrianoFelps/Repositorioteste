@@ -8,9 +8,9 @@ package com.mycompany.projeto_guit;
  *
  * @author brian.7908
  */
-public class Projeto_guit {
+public class Projeto_git {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Está alterado!!!!");
     }
 }
